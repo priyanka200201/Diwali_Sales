@@ -13,6 +13,9 @@ Product Analysis: The project improves sales strategies by identifying the most 
 
 Repository Structure
 data/: Folder containing the Diwali sales dataset.
+
 notebooks/: Jupyter notebooks with the Python code for data analysis.
+
 results/: Folder for storing any generated visualizations or analysis results.
+
 README.md: Documentation providing an overview of the project, instructions for usage, and relevant details.
